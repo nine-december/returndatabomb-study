@@ -11,3 +11,4 @@ Even if no data is retrieved while performing a low level call, `RETURNDATACOPY`
 
 - https://github.com/ethereum/solidity/issues/12306
 - https://github.com/ethereum/solidity/issues/12647
+- https://github.com/nomad-xyz/ExcessivelySafeCall
