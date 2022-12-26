@@ -4,7 +4,7 @@ Repo dedicated to study and analyze the returndatabomb attack
 
 # Principle
 
-Even if no data is retrieved while performing a low level call, RETURNDATACOPY is executed wasting caller's gas.
+Even if no data is retrieved while performing a low level call, `RETURNDATACOPY` is executed in the callers context wasting gas.
 
 
 # References
